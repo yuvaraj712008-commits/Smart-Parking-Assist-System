@@ -40,7 +40,7 @@ A key focus of this project is **low-level embedded C programming and hardware a
 ## Software and Development
 
 * **Microcontroller:** ATmega2560
-* **Programming language:** Embedded C / C++
+* **Programming language:** Embedded C 
 * **Development environment:** Arduino IDE or PlatformIO
 * **Architecture:** Modular firmware with custom hardware abstraction drivers
 
