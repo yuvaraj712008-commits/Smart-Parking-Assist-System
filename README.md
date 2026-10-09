@@ -1,5 +1,4 @@
 # Smart-Parking-Assist-System
-# Smart Parking Assist System
 
 ## Overview
 
